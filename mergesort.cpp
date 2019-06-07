@@ -1,6 +1,3 @@
-//Ather Fawaz
-//17L-4004
-//Assignment 2
 //Merge Sort with Doubly Linked List
 
 #include <iostream>
